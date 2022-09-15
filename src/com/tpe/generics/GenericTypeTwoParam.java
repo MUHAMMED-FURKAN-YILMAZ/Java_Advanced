@@ -38,7 +38,7 @@ public class GenericTypeTwoParam <S,U> {
 		System.out.println(gt.getU());
 		
 		System.out.println(gt2.getS());
-		System.out.println(gt2.getU().toString());
+		System.out.println(gt2.getU());
 
 
 	}
