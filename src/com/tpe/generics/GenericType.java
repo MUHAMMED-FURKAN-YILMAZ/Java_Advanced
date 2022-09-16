@@ -10,6 +10,10 @@ public class GenericType <T> {
 
 	private T type;
 	
+	// genericte static olamiyor
+//	public static T getType() {
+//		return type;
+//	}
 	
 	public T getType() {
 		return type;
